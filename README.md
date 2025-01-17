@@ -38,4 +38,4 @@ The raw text data is preprocessed by:
 A Random Forest classifier is used to train the model. Random Forest is an ensemble method that builds multiple decision trees and aggregates their predictions to improve classification accuracy.
 ## Evaluation:
 The model is evaluated using accuracy, precision, recall, and F1-score on a separate test dataset.
-Accuracy: 65%
+Accuracy: 70%
